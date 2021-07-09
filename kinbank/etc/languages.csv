@@ -29,6 +29,9 @@
 "v_tocantinsasurinitoca1235","Tocantins_Asurini_toca1235","toca1235","asu","Tocantins Asurini","Tupian",-3.59359,-49.8991,"varikin","Tocantins_Asurini_toca1235.txt",NA,"",""
 "v_tupitupi1274","Tupí_tupi1274","tupi1274","tpw","Lingua Geral Paulista","Tupian",-23.95,-46.38,"varikin","Tupí_tupi1274.txt",NA,"",""
 "v_wayampiwaya1270","Wayampi_waya1270","waya1270","oym","Wayampi","Tupian",1.73817,-52.6887,"varikin","Wayampi_waya1270.txt",NA,"",""
-"v_galibicaribgali1262","Galibi_Carib_gali1262","gali1262","","Galibi Carib","Cariban",5.83772,-56.8323,"varikin","Galibi_Carib_gali1262.txt",NA,"",""
-"v_pemonpemo1248","Pemon_pemo1248","pemo1248","","Pemon","Cariban",4.97031,-61.4033,"varikin","Pemon_pemo1248.txt",NA,"",""
-"v_waimiriatroariwaim1253","Waimiri_Atroari_waim1253","waim1253","","Waimiri-Atroari","Cariban",-0.61832,-60.4259,"varikin","Waimiri_Atroari_waim1253.txt",NA,"",""
+"v_galibicaribgali1262","Galibi_Carib_gali1262","gali1262","car","Galibi Carib","Cariban",5.83772,-56.8323,"varikin","Galibi_Carib_gali1262.txt",NA,NA,NA
+"v_pemonpemo1248","Pemon_pemo1248","pemo1248","aoc","Pemon","Cariban",4.97031,-61.4033,"varikin","Pemon_pemo1248.txt",NA,NA,NA
+"v_waimiriatroariwaim1253","Waimiri_Atroari_waim1253","waim1253","atr","Waimiri-Atroari","Cariban",-0.61832,-60.4259,"varikin","Waimiri_Atroari_waim1253.txt",NA,NA,NA
+"v_awetiawet1244","Awetí_awet1244","awet1244","awe","Awetí","Tupian",-12.38,-53.39,"varikin","Awetí_awet1244.txt",NA,NA,NA
+"v_kamayurakama1373","Kamayurá_kama1373","kama1373","kay","Kamayurá","Tupian",-12.27,-53.47,"varikin","Kamayurá_kama1373.txt",NA,NA,NA
+"v_mbyaguaranimbya1239","Mbyá_Guaraní_mbya1239","mbya1239","gun","Mbyá Guaraní","Tupian",-26.02,-52.71,"varikin","Mbyá_Guaraní_mbya1239.txt",NA,NA,NA

@@ -178,6 +178,8 @@ fBD,female ego's brother's daughter,,,fBD,Nieces & Nephews,varikin
 fBS,female ego's brother's son,,,fBS,Nieces & Nephews,varikin
 fC,female ego's child,,,fC,Children,varikin
 fCC,female ego's child's child,,,fCC,Grandparents & -children,varikin
+fDHF,female ego's daughter husband's father,,,fDHF,Affines,varikin
+fDHM,female ego's daughter husband's mother,,,fDHM,Affines,varikin
 fE,female ego's spouse,,,fE,Affines,varikin
 fFB,female ego's father's brother,,,fFB,Uncles & Aunts,varikin
 fFBDD,female ego's father's brother's daughter's daughter,,,fFBDD,Grandparents & -children,varikin
@@ -237,6 +239,7 @@ fMZSW,female ego's mother's sister's son's wife,,,fMZSW,Affines,varikin
 fP,female ego's parent,,,fP,,varikin
 fPP,female ego's parents' parent,,,fPP,Grandparents & -children,varikin
 fSWF,female ego's son's wife's father,,,fSWF,Affines,varikin
+fSWM,female ego's son's wife's mother,,,fSWM,Affines,varikin
 fW,female ego's wife,,,fW,Affines,varikin
 fWB,female ego's wife's brother,,,fWB,Affines,varikin
 fWF,female ego's wife's father,,,fWF,Affines,varikin
@@ -282,6 +285,8 @@ mBD,male ego's brother's daughter,,,mBD,Nieces & Nephews,varikin
 mBS,male ego's brother's son,,,mBS,Nieces & Nephews,varikin
 mC,male ego's child,,,mC,Children,varikin
 mCC,male ego's child's child,,,mCC,Grandparents & -children,varikin
+mDHF,male ego's daughter's husband's father,,,mDHF,Affines,varikin
+mDHM,male ego's daughter's husband's mother,,,mDHM,Affines,varikin
 mE,male ego's spouse,,,mE,Affines,varikin
 mFB,male ego's father's brother,,,mFB,Uncles & Aunts,varikin
 mFBDD,male ego's father's brother's daughter's daughter,,,mFBDD,,varikin
@@ -363,6 +368,8 @@ mMZSD,male ego's mother's sister's son's daughter,,,mMZSD,,varikin
 mMZSS,male ego's mother's sister's son's son,,,mMZSS,,varikin
 mP,male ego's parent,,,mP,,varikin
 mPP,male ego's parent's parent,,,mPP,,varikin
+mSWF,male ego's son's wife's father,,,mSWF,Affines,varikin
+mSWM,male ego's son's wife's mother,,,mSWM,Affines,varikin
 mWMZ,male ego's wife's mother's sister,,,mWMZ,Affines,varikin
 mWeZ,male ego's wife's elder sister,,,mWeZ,Affines,varikin
 mWyZ,male ego's wife's younger sister,,,mWyZ,Affines,varikin

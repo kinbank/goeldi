@@ -1,6 +1,6 @@
 # define version:
-GLOTTOLOG=v4.2.1
-CONCEPTICON=v2.3.0
+GLOTTOLOG=v4.4
+CONCEPTICON=v2.5.0
 
 # old repositories:
 #PARABANK_REPO=https://github.com/parabank/parabank-kinship-data
@@ -15,24 +15,24 @@ help:
 
 # install python venv and install python libraries
 env:
-	python -m venv env
-	./env/bin/python ./env/bin/pip3 install -r requirements.txt
+	python3 -m venv env
+	./env/bin/python3 ./env/bin/pip3 install -r requirements.txt
 	./env/bin/cldfbench catconfig
 
 update: env
-	./env/bin/python ./env/bin/pip3 install --upgrade -r requirements.txt
+	./env/bin/python3 ./env/bin/pip3 install --upgrade -r requirements.txt
 	./env/bin/cldfbench catupdate
 
 # Install kinbank into venv
 install: env
-	cd kinbank && ../env/bin/python setup.py develop && cd ..
+	cd kinbank && ../env/bin/python3 setup.py develop && cd ..
 
 backfill:
 	RScript ./kinbank/fill_subordinates.R
 
 # generate CLDF
 cldf: env ./kinbank/raw/
-	./env/bin/python ./env/bin/cldfbench lexibank.makecldf --glottolog-version $(GLOTTOLOG) --concepticon-version $(CONCEPTICON) kinbank
+	./env/bin/python3 ./env/bin/cldfbench lexibank.makecldf --glottolog-version $(GLOTTOLOG) --concepticon-version $(CONCEPTICON) kinbank
 
 test: env
 	cd kinbank && pytest

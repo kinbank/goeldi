@@ -27,6 +27,8 @@ update: env
 install: env
 	cd kinbank && ../env/bin/python setup.py develop && cd ..
 
+backfill:
+	RScript ./kinbank/fill_subordinates.R
 
 # generate CLDF
 cldf: env ./kinbank/raw/

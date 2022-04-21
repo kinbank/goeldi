@@ -1,7 +1,15 @@
 MPEGKin
 ============================
 
+
+[![DOI](https://zenodo.org/badge/374493336.svg)](https://zenodo.org/badge/latestdoi/374493336)
+
+
 This repository contains the data from the MPEGKin project, which is included in the Kinbank project. 
+
+Please use the following citation for this dataset:
+
+Birchall, J., Araujo, L. H., Passmore, S., & Jordan, F. M. (2022). MPEGKin: A database of kinship terminology from the Tupian and Cariban language families [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6474213
 
 
 To add a new language:

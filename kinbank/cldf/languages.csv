@@ -1,36 +1,37 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Label,Project,ProjectFile,ProjectName,EntryDate,Comment,Link
-v_acheache1246,Aché,ache1246,Aché,guq,South America,-25.5865,-56.4697,Tupian,Aché_ache1246,varikin,Aché_ache1246.txt,,NA,,
-v_anambeanam1249,Anambé,anam1249,Anambé,aan,South America,-2.71119,-49.303,Tupian,Anambé_anam1249,varikin,Anambé_anam1249.txt,,NA,,
-v_arawetearaw1273,Araweté,araw1273,Araweté,awt,South America,-4.90246,-52.5001,Tupian,Araweté_araw1273,varikin,Araweté_araw1273.txt,,NA,,
-v_avacanoeiroavac1239,Avá-Canoeiro,avac1239,Avá-Canoeiro,avv,South America,-13.6081,-48.1336,Tupian,Avá_Canoeiro_avac1239,varikin,Avá_Canoeiro_avac1239.txt,,NA,,
-v_chiriguanoeast2555,Eastern Bolivian Guaraní,east2555,Eastern Bolivian Guaraní,gui,South America,-20.42,-63.37,Tupian,Chiriguano_east2555,varikin,Chiriguano_east2555.txt,,NA,,
-v_cintalargacint1239,Cinta Larga,cint1239,Cinta Larga,cin,South America,-10.5879,-60.8312,Tupian,Cinta_Larga_cint1239,varikin,Cinta_Larga_cint1239.txt,,NA,,
-v_cocamacocamillacoca1259,Cocama-Cocamilla,coca1259,Cocama-Cocamilla,cod,South America,-4.5,-74,Tupian,Cocama_Cocamilla_coca1259,varikin,Cocama_Cocamilla_coca1259.txt,,NA,,
-v_dekwanamaquiritarimaqu1238,Maquiritari,maqu1238,Ye'kwana,mch,South America,4.70705,-64.3877,Cariban,De_kwana_Maquiritari__maqu1238,varikin,De_kwana_Maquiritari__maqu1238.txt,,NA,,
-v_emerillonemer1243,Teko,emer1243,Teko,eme,South America,3.23694,-52.3699,Tupian,Emerillon_emer1243,varikin,Emerillon_emer1243.txt,,NA,,
-v_guajaguaj1256,Guajá,guaj1256,Guajá,gvj,South America,-3.93574,-46.3683,Tupian,Guajá_guaj1256,varikin,Guajá_guaj1256.txt,,NA,,
-v_guarayuguar1292,Guarayu,guar1292,Guarayu,gyr,South America,-15.8247,-61.6934,Tupian,Guarayu_guar1292,varikin,Guarayu_guar1292.txt,,NA,,
-v_jurunajuru1256,Jurúna,juru1256,Jurúna,jur,South America,-10.9354,-53.3472,Tupian,Jurúna_juru1256,varikin,Jurúna_juru1256.txt,,NA,,
-v_kaiwakaiw1246,Kaiwá,kaiw1246,Kaiwá,kgk,South America,-24.589,-54.6815,Tupian,Kaiwá_kaiw1246,varikin,Kaiwá_kaiw1246.txt,,NA,,
-v_karitianakari1311,Karitiâna,kari1311,Karitiâna,ktn,South America,-9.37937,-64.1522,Tupian,Karitiana_kari1311,varikin,Karitiana_kari1311.txt,,NA,,
-v_kayabikaya1329,Kayabí,kaya1329,Kayabí,kyz,South America,-11.2747,-55.5479,Tupian,Kayabí_kaya1329,varikin,Kayabí_kaya1329.txt,,NA,,
-v_macushimacu1259,Macushi,macu1259,Macushi,mbc,South America,4.31861,-60.2209,Cariban,Macushi_macu1259,varikin,Macushi_macu1259.txt,,NA,,
-v_mundurukumund1330,Mundurukú,mund1330,Mundurukú,myu,South America,-8.41095,-57.691,Tupian,Mundurukú_mund1330,varikin,Mundurukú_mund1330.txt,,NA,,
-v_panareenap1235,Panare,enap1235,Panare,pbh,South America,6.95035,-65.8483,Cariban,Panare_enap1235,varikin,Panare_enap1235.txt,,NA,,
-v_paraguayanguaranipara1311,Paraguayan Guaraní,para1311,Paraguayan Guaraní,gug,South America,-25.60551,-57.08816,Tupian,Paraguayan_Guaraní_para1311,varikin,Paraguayan_Guaraní_para1311.txt,,NA,,
-v_parakanapara1312,Parakanã,para1312,Parakanã,pak,South America,-4.64681,-50.0621,Tupian,Parakanã_para1312,varikin,Parakanã_para1312.txt,,NA,,
-v_pausernapaus1244,Warázu,paus1244,Warázu,psm,South America,-12.8553,-63.1903,Tupian,Pauserna_paus1244,varikin,Pauserna_paus1244.txt,,NA,,
-v_sateremawesate1243,Sateré-Mawé,sate1243,Sateré-Mawé,mav,South America,-3.63897,-56.8749,Tupian,Sateré_Mawé_sate1243,varikin,Sateré_Mawé_sate1243.txt,,NA,,
-v_sirionosiri1273,Sirionó,siri1273,Sirionó,srq,South America,-15.5298,-63.9688,Tupian,Sirionó_siri1273,varikin,Sirionó_siri1273.txt,,NA,,
-v_suruisuru1262,Suruí,suru1262,Suruí,sru,South America,-11.0989,-61.2818,Tupian,Suruí_suru1262,varikin,Suruí_suru1262.txt,,NA,,
-v_tapirapetapi1254,Tapirapé,tapi1254,Tapirapé,taf,South America,-10.5373,-50.5438,Tupian,Tapirapé_tapi1254,varikin,Tapirapé_tapi1254.txt,,NA,,
-v_tembetemb1276,Tenetehara,temb1276,Tenetehara,tqb,South America,-2.6123,-48.2359,Tupian,Tembé_temb1276,varikin,Tembé_temb1276.txt,,NA,,
-v_tenharimtenh1241,Tenharim-Parintintin-Diahoi,tenh1241,Tenharim-Parintintin-Diahoi,pah,South America,-7.92626,-61.936,Tupian,Tenharim_tenh1241,varikin,Tenharim_tenh1241.txt,,NA,,
-v_tocantinsasurinitoca1235,Tocantins Asurini,toca1235,Tocantins Asurini,asu,South America,-3.59359,-49.8991,Tupian,Tocantins_Asurini_toca1235,varikin,Tocantins_Asurini_toca1235.txt,,NA,,
-v_tupitupi1274,Lingua Geral Paulista,tupi1274,Lingua Geral Paulista,tpw,South America,-23.95,-46.38,Tupian,Tupí_tupi1274,varikin,Tupí_tupi1274.txt,,NA,,
-v_wayampiwaya1270,Wayampi,waya1270,Wayampi,oym,South America,1.73817,-52.6887,Tupian,Wayampi_waya1270,varikin,Wayampi_waya1270.txt,,NA,,
-v_galibicaribgali1262,Galibi Carib,gali1262,Galibi Carib,car,South America,5.83772,-56.8323,Cariban,Galibi_Carib_gali1262,varikin,Galibi_Carib_gali1262.txt,,NA,,
-v_waimiriatroariwaim1253,Waimiri-Atroari,waim1253,Waimiri-Atroari,atr,South America,-0.61832,-60.4259,Cariban,Waimiri_Atroari_waim1253,varikin,Waimiri_Atroari_waim1253.txt,,NA,,
-v_awetiawet1244,Awetí,awet1244,Awetí,awe,South America,-12.38,-53.39,Tupian,Awetí_awet1244,varikin,Awetí_awet1244.txt,,NA,,
-v_kamayurakama1373,Kamayurá,kama1373,Kamayurá,kay,South America,-12.27,-53.47,Tupian,Kamayurá_kama1373,varikin,Kamayurá_kama1373.txt,,NA,,
-v_mbyaguaranimbya1239,Mbyá Guaraní,mbya1239,Mbyá Guaraní,gun,South America,-26.02,-52.71,Tupian,Mbyá_Guaraní_mbya1239,varikin,Mbyá_Guaraní_mbya1239.txt,,NA,,
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Label,Project,ProjectFile,ProjectName,EntryDate,Comment,Link,Set
+v_acheache1246,Aché,ache1246,Aché,guq,South America,-25.5865,-56.4697,Tupian,Aché_ache1246,varikin,Aché_ache1246.txt,,NA,,,Goeldi
+v_anambeanam1249,Anambé,anam1249,Anambé,aan,South America,-2.71119,-49.303,Tupian,Anambé_anam1249,varikin,Anambé_anam1249.txt,,NA,,,Goeldi
+v_arawetearaw1273,Araweté,araw1273,Araweté,awt,South America,-4.90246,-52.5001,Tupian,Araweté_araw1273,varikin,Araweté_araw1273.txt,,NA,,,Goeldi
+v_avacanoeiroavac1239,Avá-Canoeiro,avac1239,Avá-Canoeiro,avv,South America,-13.6081,-48.1336,Tupian,Avá_Canoeiro_avac1239,varikin,Avá_Canoeiro_avac1239.txt,,NA,,,Goeldi
+v_chiriguanoeast2555,Eastern Bolivian Guaraní,east2555,Eastern Bolivian Guaraní,gui,South America,-20.42,-63.37,Tupian,Chiriguano_east2555,varikin,Chiriguano_east2555.txt,,NA,,,Goeldi
+v_cintalargacint1239,Cinta Larga,cint1239,Cinta Larga,cin,South America,-10.5879,-60.8312,Tupian,Cinta_Larga_cint1239,varikin,Cinta_Larga_cint1239.txt,,NA,,,Goeldi
+v_cocamacocamillacoca1259,Cocama-Cocamilla,coca1259,Cocama-Cocamilla,cod,South America,-4.5,-74,Tupian,Cocama_Cocamilla_coca1259,varikin,Cocama_Cocamilla_coca1259.txt,,NA,,,Goeldi
+v_dekwanamaquiritarimaqu1238,Maquiritari,maqu1238,Ye'kwana,mch,South America,4.70705,-64.3877,Cariban,De_kwana_Maquiritari__maqu1238,varikin,De_kwana_Maquiritari__maqu1238.txt,,NA,,,Goeldi
+v_emerillonemer1243,Teko,emer1243,Teko,eme,South America,3.23694,-52.3699,Tupian,Emerillon_emer1243,varikin,Emerillon_emer1243.txt,,NA,,,Goeldi
+v_guajaguaj1256,Guajá,guaj1256,Guajá,gvj,South America,-3.93574,-46.3683,Tupian,Guajá_guaj1256,varikin,Guajá_guaj1256.txt,,NA,,,Goeldi
+v_guarayuguar1292,Guarayu,guar1292,Guarayu,gyr,South America,-15.8247,-61.6934,Tupian,Guarayu_guar1292,varikin,Guarayu_guar1292.txt,,NA,,,Goeldi
+v_jurunajuru1256,Jurúna,juru1256,Jurúna,jur,South America,-10.9354,-53.3472,Tupian,Jurúna_juru1256,varikin,Jurúna_juru1256.txt,,NA,,,Goeldi
+v_kaiwakaiw1246,Kaiwá,kaiw1246,Kaiwá,kgk,South America,-24.589,-54.6815,Tupian,Kaiwá_kaiw1246,varikin,Kaiwá_kaiw1246.txt,,NA,,,Goeldi
+v_karitianakari1311,Karitiâna,kari1311,Karitiâna,ktn,South America,-9.37937,-64.1522,Tupian,Karitiana_kari1311,varikin,Karitiana_kari1311.txt,,NA,,,Goeldi
+v_kayabikaya1329,Kayabí,kaya1329,Kayabí,kyz,South America,-11.2747,-55.5479,Tupian,Kayabí_kaya1329,varikin,Kayabí_kaya1329.txt,,NA,,,Goeldi
+v_macushimacu1259,Macushi,macu1259,Macushi,mbc,South America,4.31861,-60.2209,Cariban,Macushi_macu1259,varikin,Macushi_macu1259.txt,,NA,,,Goeldi
+v_mundurukumund1330,Mundurukú,mund1330,Mundurukú,myu,South America,-8.41095,-57.691,Tupian,Mundurukú_mund1330,varikin,Mundurukú_mund1330.txt,,NA,,,Goeldi
+v_panareenap1235,Panare,enap1235,Panare,pbh,South America,6.95035,-65.8483,Cariban,Panare_enap1235,varikin,Panare_enap1235.txt,,NA,,,Goeldi
+v_paraguayanguaranipara1311,Paraguayan Guaraní,para1311,Paraguayan Guaraní,gug,South America,-25.60551,-57.08816,Tupian,Paraguayan_Guaraní_para1311,varikin,Paraguayan_Guaraní_para1311.txt,,NA,,,Goeldi
+v_parakanapara1312,Parakanã,para1312,Parakanã,pak,South America,-4.64681,-50.0621,Tupian,Parakanã_para1312,varikin,Parakanã_para1312.txt,,NA,,,Goeldi
+v_pausernapaus1244,Warázu,paus1244,Warázu,psm,South America,-12.8553,-63.1903,Tupian,Pauserna_paus1244,varikin,Pauserna_paus1244.txt,,NA,,,Goeldi
+v_sateremawesate1243,Sateré-Mawé,sate1243,Sateré-Mawé,mav,South America,-3.63897,-56.8749,Tupian,Sateré_Mawé_sate1243,varikin,Sateré_Mawé_sate1243.txt,,NA,,,Goeldi
+v_sirionosiri1273,Sirionó,siri1273,Sirionó,srq,South America,-15.5298,-63.9688,Tupian,Sirionó_siri1273,varikin,Sirionó_siri1273.txt,,NA,,,Goeldi
+v_suruisuru1262,Suruí,suru1262,Suruí,sru,South America,-11.0989,-61.2818,Tupian,Suruí_suru1262,varikin,Suruí_suru1262.txt,,NA,,,Goeldi
+v_tapirapetapi1254,Tapirapé,tapi1254,Tapirapé,taf,South America,-10.5373,-50.5438,Tupian,Tapirapé_tapi1254,varikin,Tapirapé_tapi1254.txt,,NA,,,Goeldi
+v_tembetemb1276,Tenetehara,temb1276,Tenetehara,tqb,South America,-2.6123,-48.2359,Tupian,Tembé_temb1276,varikin,Tembé_temb1276.txt,,NA,,,Goeldi
+v_tenharimtenh1241,Tenharim-Parintintin-Diahoi,tenh1241,Tenharim-Parintintin-Diahoi,pah,South America,-7.92626,-61.936,Tupian,Tenharim_tenh1241,varikin,Tenharim_tenh1241.txt,,NA,,,Goeldi
+v_tocantinsasurinitoca1235,Tocantins Asurini,toca1235,Tocantins Asurini,asu,South America,-3.59359,-49.8991,Tupian,Tocantins_Asurini_toca1235,varikin,Tocantins_Asurini_toca1235.txt,,NA,,,Goeldi
+v_tupitupi1274,Lingua Geral Paulista,tupi1274,Lingua Geral Paulista,tpw,South America,-23.95,-46.38,Tupian,Tupí_tupi1274,varikin,Tupí_tupi1274.txt,,NA,,,Goeldi
+v_wayampiwaya1270,Wayampi,waya1270,Wayampi,oym,South America,1.73817,-52.6887,Tupian,Wayampi_waya1270,varikin,Wayampi_waya1270.txt,,NA,,,Goeldi
+v_galibicaribgali1262,Galibi Carib,gali1262,Galibi Carib,car,South America,5.83772,-56.8323,Cariban,Galibi_Carib_gali1262,varikin,Galibi_Carib_gali1262.txt,,NA,,,Goeldi
+v_waimiriatroariwaim1253,Waimiri-Atroari,waim1253,Waimiri-Atroari,atr,South America,-0.61832,-60.4259,Cariban,Waimiri_Atroari_waim1253,varikin,Waimiri_Atroari_waim1253.txt,,NA,,,Goeldi
+v_awetiawet1244,Awetí,awet1244,Awetí,awe,South America,-12.38,-53.39,Tupian,Awetí_awet1244,varikin,Awetí_awet1244.txt,,NA,,,Goeldi
+v_kamayurakama1373,Kamayurá,kama1373,Kamayurá,kay,South America,-12.27,-53.47,Tupian,Kamayurá_kama1373,varikin,Kamayurá_kama1373.txt,,NA,,,Goeldi
+v_mbyaguaranimbya1239,Mbyá Guaraní,mbya1239,Mbyá Guaraní,gun,South America,-26.02,-52.71,Tupian,Mbyá_Guaraní_mbya1239,varikin,Mbyá_Guaraní_mbya1239.txt,,NA,,,Goeldi
+v_prototupiguaranitupi1276,Proto-Tupi-Guarani,tupi1239,,,,,,Tupian,Proto_Tupi_Guarani_tupi1276,varikin,Proto_Tupi_Guarani_tupi1276.txt,,NA,,,Goeldi

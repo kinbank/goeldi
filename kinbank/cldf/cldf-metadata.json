@@ -33,7 +33,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.8.2"
+            "dc:description": "3.8.1"
         },
         {
             "dc:title": "python-packages",
@@ -49,7 +49,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 6683,
+            "dc:extent": 6774,
             "tableSchema": {
                 "columns": [
                     {
@@ -152,7 +152,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 35,
+            "dc:extent": 36,
             "tableSchema": {
                 "columns": [
                     {
@@ -236,6 +236,10 @@
                     {
                         "datatype": "string",
                         "name": "Link"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Set"
                     }
                 ],
                 "primaryKey": [

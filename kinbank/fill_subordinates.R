@@ -5,10 +5,10 @@
 ### We can infer that this term also refers to meB & myB. 
 ### It may be the case the language has other words for the more 
 ### specific case, but, these terms should also apply. 
-
-suppressMessages(library(dplyr))
-suppressMessages(library(stringr))
-
+suppressPackageStartupMessages({
+  library(dplyr)
+  library(stringr)
+})
 
 getHierarchicalRelations = function(parameters){
   hr = c("a", "a")
@@ -24,10 +24,8 @@ getHierarchicalRelations = function(parameters){
   hr  
 }
 
-
 dd = data.frame(parameter = c("mB", "meB"),
                 terms = c("brother", "brother"))
-
 
 fillSubordinates = function(dd, subordinate, superordinate){
   super = dd[dd$parameter == superordinate,]

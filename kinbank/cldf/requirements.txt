@@ -14,7 +14,7 @@ idna==3.3
 iniconfig==1.1.1
 isodate==0.6.1
 lingpy==2.6.9
-lxml==4.9.0
+lxml==4.9.1
 Markdown==3.3.7
 nameparser==1.1.1
 networkx==2.8.4

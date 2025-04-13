@@ -15,8 +15,8 @@ this dataset using the DOI of the [particular released version](../../releases/)
 ![Concepticon: 11%](https://img.shields.io/badge/Concepticon-11%25-red.svg "Concepticon: 11%")
 ![Source: 90%](https://img.shields.io/badge/Source-90%25-green.svg "Source: 90%")
 
-- **Varieties:** 36
-- **Concepts:** 395
+- **Varieties:** 36 (linked to 36 different Glottocodes)
+- **Concepts:** 395 (linked to 19 different Concepticon concept sets)
 - **Lexemes:** 6,774
 - **Sources:** 39
 - **Synonymy:** 1.26

@@ -9,3 +9,4 @@ kinbank/cldf/.transcription-report.json
 .Rhistory
 kinbank.Rproj
 *.Rproj
+*.DS_Store
